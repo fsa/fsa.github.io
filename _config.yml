@@ -1,6 +1,6 @@
 lang: ru-RU
 encoding: utf-8
 url: https://fsa.github.io
-permalink: pretty
+permalink: /:title
 highlighter: rouge
 markdown: kramdown
