@@ -1,11 +1,9 @@
 ---
 layout: article
 title: Сайт fsa.github.io
+subtitle: Игры на HTML 
 excerpt: Тяжела и неказиста жизнь простого программиста
 ---
-
-## Игры на HTML
-
 Эти игры созданы во время изучения JavaScript, ReactJS и др.
 
 [Игра Sokoban на HTML5 и Canvas](/html5-sokoban/)
